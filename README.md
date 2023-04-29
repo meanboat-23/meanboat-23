@@ -6,5 +6,5 @@
 <div align=center>현재 NLP와 Recommend System을 공부중인 박민배 입니다.</div>
 <div align=center>현재 대학교에 재학중이며 열심히 배우려는 자세로 임하고 있습니다.</div>
 
-<div align=center>🛠️Tech Stack🛠️</div>
+ <h3><div align=center>🛠️Tech Stack🛠️</div></h3>
 <div align=center><img src="https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Pytorch-red?style=flat&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-important?style=flat&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/Pycharm-green?style=flat&logo=pycharm&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio-blueviolet?style=flat&logo=VisualStudio&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=flat&logo=VisualStudioCode&logoColor=white"/></div>
